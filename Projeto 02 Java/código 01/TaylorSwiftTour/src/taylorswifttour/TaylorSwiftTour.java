@@ -26,7 +26,7 @@ public class TaylorSwiftTour {
             presencaDePalco -=1;
             carisma -=2;
         }else{
-            System.out.println("naaam, vou ficar sÃ³ no violÃ£o mesmo");
+            System.out.println("naaam, vou ficar so no violao mesmo");
             presencaDePalco +=1;
         }
     }
